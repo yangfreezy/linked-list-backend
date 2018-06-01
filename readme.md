@@ -1,6 +1,6 @@
 # Getting Started
 
-fork the repository (https://github.com/badco37/linked-list)
+fork the repository (https://github.com/yangfreezy/linked-list-backend)
 
 ```bash
 $ git clone https://github.com/master/patterns-api.git
